@@ -111,6 +111,7 @@ class LoginScreen extends StatelessWidget {
                   )),
               const SizedBox(
                 height: 24.0,
+//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
               ),
               SizedBox(
                 height: 55.0,
@@ -150,6 +151,7 @@ class LoginScreen extends StatelessWidget {
                       text: "Don't have an account?",
                       style: TextStyle(fontSize: 15.0),
                     ),
+//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
                     WidgetSpan(
                       child: SizedBox(width: 5.0),
                     ),
@@ -160,6 +162,7 @@ class LoginScreen extends StatelessWidget {
                         color: Color(0xffFF0037),
                       ),
                     ),
+//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
                   ],
                 ),
               ),
@@ -171,4 +174,3 @@ class LoginScreen extends StatelessWidget {
   }
 }
 
-//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
